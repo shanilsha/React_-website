@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Muhammed Shanil",
+    "occupation": "ReactJS Developer &",
+    "description": "Freelance Developer",
+    "image": "",
+    "bio": "My name is Muhammed Shanil, I'm a Full Stack ReactJS Developer.",
+    "contactmessage": "",
+    "email": "Muhammedshanilizza@gmail.com",
+    "address": {
+      "street": "KOZHIKODE",
+      "city": "KERALA,",
+      "state": "INDIA",
+      "email": "Muhammedshanilizza@gmail.com"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shanil_sha/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shanilsha_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/shanilsha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Kerala",
+        "degree": "Masters in Advanced Computer Course",
+        "graduated": "January 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "Freelance Developer",
+        "years": "July 2020 - Present",
+        "description": "."
+      },
+      {
+        "company": "FREELANCE",
+        "title": "Software Engineer",
+        "years": "July 2020 - september 2020",
+        "description": "Building project."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstarp",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "C",
+        "level": "75%"
+      },
+      {
+        "name": "HTML 5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "20%"
+      }
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
